@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a mathematician by training, pursuing research in mechanistic interpretability. I believe AGI research has the potential to be dangerous, and the most effective preventative measure is a clear framework for understanding the internal workings of the underlying machinery.
+Hello! Thank you for coming by, and I pre-emptively apologize for my inability to be concise. I promise my papers read less rambly than this page.
 
-Currently, I am an AI and topology consultant for Garoux LLC, and I am also working with [Prof. Tom Goldstein](http://www.cs.umd.edu/~tomg/) at University of Maryland.
+I work for Pratyush Tiwary at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
+
+However, before I started fiddling with neural networks, I was, and will always be a theoretical molecular biophysicist. I learnt how to be this from my PhD advisor Aaron Dinner at the University of Chicago. Jonathan Weare at the Courant Institute in New York co-advised me and gave me some applied math chops as well.
+
+
+
+ [Prof. Tom Goldstein](http://www.cs.umd.edu/~tomg/) at University of Maryland.
 
 Background
 ======
