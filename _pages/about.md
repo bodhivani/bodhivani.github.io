@@ -10,24 +10,17 @@ redirect_from:
 
 Hello! Thank you for coming by, and I pre-emptively apologize for my inability to be concise. I promise my papers read less rambly than this page.
 
-I work for Pratyush Tiwary at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
+I work for [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
 
-However, before I started fiddling with neural networks, I was, and will always be a theoretical molecular biophysicist. I learnt how to be this from my PhD advisor Aaron Dinner at the University of Chicago. Jonathan Weare at the Courant Institute in New York co-advised me and gave me some applied math chops as well.
-
-
-
- [Prof. Tom Goldstein](http://www.cs.umd.edu/~tomg/) at University of Maryland.
+By late September 2023, I will be leaving for the bay to work as a Machine Learning scientist for [Prescient Design at Genentech inc.](https://www.gene.com/scientists/our-scientists/prescient-design). Ironically, I haven't predicted the specifics of my new research.
 
 Background
 ======
-I have a Ph.D. in mathematics from the University of Maryland, College Park. While I originally worked on algebraic geometry and topology, my [thesis](https://drum.lib.umd.edu/handle/1903/29249) was on computational topology, where I proved an approximation theorem on persistent homology with relevance to dimension reduction.
 
-Before graduate school, I did economic consulting at LECG, and before that I was a math and econ major at Swarthmore College. I grew up in New York and Salt Lake City, Utah.
+Before I started fiddling with neural networks, I was, and will always be a theoretical molecular biophysicist. I learnt how to be this from my PhD advisor [Aaron Dinner](https://dinner-group.uchicago.edu/) at the University of Chicago. [Jonathan Weare](https://cims.nyu.edu/~weare/) at the Courant Institute in New York co-advised me and gave me some applied math chops as well.
 
-Site guide
-------
-On this site, you can also find [my CV](link), some [writing](link) on AGI and interpretability.
+Even before that, I went to college at IIT Bombay, where I might have learnt a few things, but also read the book "What is Life?" by Erwin Schrodinger and was more influenced by it than anyone should be by a book. I decided my life will be dedicated to understanding the physics of biology, so here we are.
 
 Other Stuff
 ------
-I also enjoy boardgames, reading, classical music, good food, long walks, and dogs. Especially dogs.
+I also enjoy reading, trying and cooking interesting food, boardgames, long walks, and dogs. Especially dogs.
