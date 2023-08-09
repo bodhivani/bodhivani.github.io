@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathaniel Monson"
+title                    : "Bodhi P. Vani"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
-url                      : https://nmonson1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bodhivani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nmonson1/nmonson1.github.io"
+repository               : "bodhivani/bodhivani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nathaniel Burton Monson, Ph.D"
+  name             : "Bodhi P. Vani, Ph.D"
   avatar           : "profile.jpeg"
   bio              : "AI Mechanistic interpretability researcher | Topologist by training | Mathematics Ph.D., UMD College Park"
   location         : "Maryland | Flexible to move"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "nmonson1@gmail.com"
+  email            : "bvani@umd.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nmonson1"
+  github           : "bodhivani"
   google_plus      :
   keybase          :
   instagram        :

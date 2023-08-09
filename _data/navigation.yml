@@ -1,13 +1,11 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Interpretability"
-    url: /interpretability/
-        
+  - title: "Outreach"
+    url: /outreach/    
+
+
+  - title: "Research"
+    url: /files/research
+
   - title: "CV"
-    url: /files/NathanielMonson_CV_April_2023.pdf
-    
-  - title: "Thesis"
-    url: https://drum.lib.umd.edu/handle/1903/29249
+    url: /files/BodhiVani_CV_May_2023.pdf
