@@ -18,7 +18,7 @@ Background
 
 Before I started fiddling with neural networks, I was, and will always be a theoretical molecular biophysicist. I learnt how to be this from my PhD advisor [Aaron Dinner](https://dinner-group.uchicago.edu/) at the University of Chicago. [Jonathan Weare](https://cims.nyu.edu/~weare/) at the Courant Institute in New York co-advised me and gave me some applied math chops as well.
 
-Even before that, I went to college at IIT Bombay, where I might have learnt a few things, but also read the book "What is Life?" by Erwin Schrodinger and was more influenced by it than anyone should be by a book. I decided my life will be dedicated to understanding the physics of biology, so here we are.
+Even before that, I went to college at IIT Bombay, where I might have learnt a few things, and also read the book "What is Life?" by Erwin Schrodinger and was more influenced by it than anyone should be by a book. I decided my life will be dedicated to understanding the physics of biology, so here we are.
 
 Other Stuff
 ------
