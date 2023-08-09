@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Outreach"
-    url: /outreach/    
-
-
   - title: "Research"
     url: /research
+
+  
+  - title: "Outreach"
+    url: /outreach/    
 
   - title: "CV"
     url: /files/BodhiVani_CV.pdf
