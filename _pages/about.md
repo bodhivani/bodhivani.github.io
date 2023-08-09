@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "The basics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
