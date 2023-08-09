@@ -9,12 +9,12 @@ redirect_from:
 
 Hello! Thank you for coming by, and I pre-emptively apologize for my inability to be concise. I promise my papers read less rambly than this page.
 
-I work for [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
+Currently, I work with [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
 
-By late September 2023, I will be leaving for the bay to work as a Machine Learning scientist for [Prescient Design at Genentech inc.](https://www.gene.com/scientists/our-scientists/prescient-design). Ironically, I haven't predicted the specifics of my new research.
+By late September 2023, I will be leaving for the bay area to work as a Machine Learning scientist for [Prescient Design at Genentech inc.](https://www.gene.com/scientists/our-scientists/prescient-design). Ironically, I haven't predicted the specifics of my new research.
 
 Background
-======
+-----
 
 Before I started fiddling with neural networks, I was, and will always be a theoretical molecular biophysicist. I learnt how to be this from my PhD advisor [Aaron Dinner](https://dinner-group.uchicago.edu/) at the University of Chicago. [Jonathan Weare](https://cims.nyu.edu/~weare/) at the Courant Institute in New York co-advised me and gave me some applied math chops as well.
 
