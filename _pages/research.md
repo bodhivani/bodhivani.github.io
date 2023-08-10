@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 Eventually, I intend to summarize my projects here for the sake of pedagogy and science communication. In the meantime, here are some
-
 Selected Publications
 ------
 [AlphaFold2-RAVE: From Sequence to Boltzmann Ranking](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00290)
