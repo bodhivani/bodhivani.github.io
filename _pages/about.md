@@ -12,7 +12,7 @@ Things I care about
 Leveraging science and machine learning to improve human health.
 The effect of computational chemistry and biophysics on the democratization of drug design.
 A robust understanding of the underlying physics of biomolecular events...
-... and to that point, interpretable machine learning with firm physical basis.
+... and towards that goal, interpretable machine learning with firm physical basis.
 Fun and interesting math/physics/biology/ML.
 Women in STEM.
 
