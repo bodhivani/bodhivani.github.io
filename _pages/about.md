@@ -7,8 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Thank you for coming by, and I pre-emptively apologize for my inability to be concise. I promise my papers read less rambly than this page.
+Things I care about
+----
+Leveraging science and machine learning to improve human health.
+The effect of computational chemistry and biophysics on the democratization of drug design.
+A robust understanding of the underlying physics of biomolecular events...
+... and to that point, interpretable machine learning with firm physical basis.
+Fun and interesting math/physics/biology/ML.
+Women in STEM.
 
+What I do
+----
 Currently, I work with [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
 
 By late September 2023, I will be leaving for the bay area to work as a Machine Learning scientist for [Prescient Design at Genentech inc.](https://www.gene.com/scientists/our-scientists/prescient-design). Ironically, I haven't predicted the specifics of my new research.
