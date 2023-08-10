@@ -10,11 +10,16 @@ redirect_from:
 
 Things I care about
 ----
-Leveraging science and machine learning to improve human health.\n
-The effect of computational chemistry and biophysics on the democratization of drug design.\n
-A robust understanding of the underlying physics of biomolecular events...\n
-... and towards that goal, interpretable machine learning with firm physical basis.\n
-Fun and interesting math/physics/biology/ML.\n
+Leveraging science and machine learning to improve human health.
+
+The effect of computational chemistry and biophysics on the democratization of drug design.
+
+A robust understanding of the underlying physics of biomolecular events...
+
+... and towards that goal, interpretable machine learning with firm physical basis.
+
+Fun and interesting math/physics/biology/ML.
+
 Women in STEM.
 
 What I do
