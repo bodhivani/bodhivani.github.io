@@ -24,12 +24,11 @@ Women in STEM.
 
 What I do
 ----
-Currently, I work with [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we are hunting cryptic pockets by exploring the structural diversity of biomolecules.
-
-By late September 2023, I will be leaving for the bay area to work as a Machine Learning scientist for [Prescient Design at Genentech inc.](https://www.gene.com/scientists/our-scientists/prescient-design). Ironically, I haven't predicted the specifics of my new research.
+Currently, I'm a Machine Learning scientist for [Prescient Design at Genentech inc.](https://www.gene.com/scientists/our-scientists/prescient-design). I combine statistical mechanics and ML to develop methods for small molecule drug discovery.
 
 Background
 -----
+Before this, I worked with [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) at the Institute of Physical Science and Technology in Maryland, where we attempt to conquer the world with AI augmented enhanced sampling. Specifically, we were hunting cryptic pockets by exploring the structural diversity of biomolecules.
 
 Before I started fiddling with neural networks, I was, and will always be a theoretical molecular biophysicist. I learnt how to be this from my PhD advisor [Aaron Dinner](https://dinner-group.uchicago.edu/) at the University of Chicago. [Jonathan Weare](https://cims.nyu.edu/~weare/) at the Courant Institute in New York co-advised me and gave me some applied math chops as well.
 
